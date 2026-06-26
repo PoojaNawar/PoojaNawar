@@ -1,54 +1,67 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=180&section=header&text=Pooja%20Shinde&fontSize=42&fontColor=e8e4df&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=160&section=header&text=Pooja%20Shinde&fontSize=40&fontColor=e8ddd4&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" />
 
 </div>
 
 <div align="center">
 
-### `Building AI that empowers people, respects ethics, and creates sustainable impact.`
+`Building AI that empowers people, respects ethics, and creates sustainable impact.`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja%20Shinde-6b8fa3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-dattatray-shinde)
-[![Email](https://img.shields.io/badge/Email-poojanawar1415@gmail.com-8f7f74?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojanawar1415@gmail.com)
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn-17.9K%20Followers-6b8fa3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-dattatray-shinde)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-c4a882?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-dattatray-shinde)
+[![Email](https://img.shields.io/badge/Email-b89880?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojanawar1415@gmail.com)
 
 </div>
+
+<br/>
 
 ---
 
 ## The Problem I Solve
 
-> Most businesses are burning time on repetitive tasks that a well-built system could handle automatically — while their teams burn out on work that should not need a human at all.
->
-> When they try to fix it, they go all in on AI — agents, LLMs, automations stacked on automations — and end up spending more money, adding more complexity, and solving less than they started with.
->
-> I start with the problem, not the technology. Sometimes that means a powerful LLM pipeline. Sometimes it means a clean rule-based workflow. The goal is what works in production — not what looks impressive in a demo.
+Most businesses are burning time on repetitive tasks that a well-built system could handle automatically — while their teams burn out on work that should not need a human at all.
+
+When they try to fix it, they go all in on AI — agents, LLMs, automations stacked on automations — and end up spending more money, adding more complexity, and solving less than they started with.
+
+I start with the problem, not the technology. Sometimes that means a powerful LLM pipeline. Sometimes it means a clean rule-based workflow. The goal is what works in production — not what looks impressive in a demo.
 
 ---
 
-## How I Build Production AI Systems
+## How I Deliver
 
-I work across the full lifecycle of production AI — from a blank Python file to a monitored, deployed system that holds up under real-world load.
+Every freelance engagement follows the same structured process — no ambiguity, no scope creep, clear outcomes at every stage.
 
 ```
-Python Foundations        ->  Clean, modular, production-grade code
-AI System Design          ->  Architecture decisions before writing a single line
-Backend Infrastructure    ->  FastAPI + Docker + PostgreSQL — scalable from day one
-RAG Pipelines             ->  Retrieval that answers from your data, not hallucinations
-LLM Fine-tuning           ->  Domain-adapted models trained on your context
-Monitoring & Evaluation   ->  If it cannot be measured, it cannot be trusted in production
-Deployment                ->  Containerised, reproducible, ready for real traffic
+Discovery Call
+  Understand the business problem, current workflow, and where AI can actually help.
+  Deliverable: problem brief + scope of work
+
+  |
+
+Sprint 1 — Architecture & Foundation
+  System design, tech stack decisions, environment setup, data pipeline scaffolding.
+  Deliverable: architecture document + working local environment
+
+  |
+
+Sprint 2 — Core Build
+  Core AI system built and tested — agent logic, RAG pipeline, fine-tuning, or automation.
+  Deliverable: working prototype with documented API
+
+  |
+
+Sprint 3 — Integration & Hardening
+  Backend integration, edge case handling, evaluation runs, monitoring setup.
+  Deliverable: tested system with evaluation report
+
+  |
+
+Sprint 4 — Deployment & Handover
+  Containerised deployment, documentation, walkthrough session, and post-launch support window.
+  Deliverable: live system + full handover pack
 ```
-
-### How I Evaluate a Model
-
-Accuracy on a benchmark means nothing if the system fails on actual data. My evaluation process covers:
-
-- **Task-specific benchmarks** — does it do the job it was built for?
-- **Hallucination and faithfulness checks** — for RAG systems, does every answer trace back to a source?
-- **Latency and cost profiling** — a slow or expensive model is a business problem, not just a technical one
-- **Edge case stress testing** — the failure modes your users will find before you do
-- **Before vs. after comparison** — fine-tuned models are always benchmarked against the base model on held-out domain data
 
 ---
 
@@ -66,80 +79,82 @@ Accuracy on a benchmark means nothing if the system fails on actual data. My eva
 
 ---
 
+## How I Build Production AI Systems
+
+```
+Python Foundations        ->  Clean, modular, production-grade code
+AI System Design          ->  Architecture decisions before writing a single line
+Backend Infrastructure    ->  FastAPI + Docker + PostgreSQL
+RAG Pipelines             ->  Retrieval grounded in your data, not hallucinations
+LLM Fine-tuning           ->  Domain-adapted models trained on your context
+Monitoring & Evaluation   ->  If it cannot be measured, it cannot be trusted
+Deployment                ->  Containerised, reproducible, ready for real traffic
+```
+
+**How I evaluate a model**
+
+Accuracy on a benchmark means nothing if the system fails on actual data. Every model I ship is validated against task-specific benchmarks, hallucination and faithfulness checks, latency and cost profiling, edge case stress testing, and a before-vs-after comparison on held-out domain data.
+
+---
+
 ## Major Projects
 
 ### AI-Powered School Intelligence Platform
 
-[![Repo](https://img.shields.io/badge/GitHub-AI--Powered--School--Intelligence--Platform-4a5568?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaNawar/AI-Powered-School-Intelligence-Platform)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-c4a882?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaNawar/AI-Powered-School-Intelligence-Platform)
 
-Developed an AI-powered platform that enables users to discover and retrieve comprehensive information about schools across India using intelligent search and natural language queries.
+An AI-powered platform for discovering and retrieving comprehensive information about schools across India through intelligent search and natural language queries.
 
 **Highlights**
-- AI-powered search across a large database of Indian schools
+- Semantic search across a large database of Indian schools using embeddings and vector databases
 - Natural language query understanding for intuitive information retrieval
-- Semantic search using embeddings and vector databases
-- FastAPI backend with RESTful APIs
-- PostgreSQL integration for structured data management
+- FastAPI backend with RESTful APIs and PostgreSQL for structured data management
 - Scalable architecture designed for high-performance search and retrieval
 
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-7a9bb5?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-7a9e9f?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8fa8b8?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-a09080?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-7b9db8?style=flat-square&logo=docker&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-9aab9a?style=flat-square)
+![Python](https://img.shields.io/badge/Python-c4a882?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8967a?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c4aa8a?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-b09070?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-c0a888?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ### Enterprise Knowledge Management System
 
-[![Repo](https://img.shields.io/badge/GitHub-KMS--Knowledge--Management--System-4a5568?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaNawar/KMS--Knowledge-Management-System)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-c4a882?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaNawar/KMS--Knowledge-Management-System)
 
-Built a multimodal knowledge management platform that enables users to search and retrieve information from documents, images, videos, and audio using natural language.
+A multimodal knowledge management platform that enables search and retrieval across documents, images, videos, and audio using natural language.
 
 **Highlights**
 - Multimodal semantic search across documents, images, audio, and video
-- Retrieval-Augmented Generation (RAG) pipeline
-- OCR and AI-powered image captioning
-- Audio transcription using Whisper
+- RAG pipeline with OCR, AI-powered image captioning, and audio transcription via Whisper
 - Video understanding with semantic frame retrieval
-- Vector database for intelligent knowledge retrieval
-- Interactive Streamlit application for seamless user experience
+- Interactive Streamlit interface for seamless user experience
 
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-7a9bb5?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-6b8a7a?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-a09080?style=flat-square)
-![Whisper](https://img.shields.io/badge/Whisper-8a9aaa?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-b08a8a?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8fa8b8?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-c4a882?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-b09070?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-b8967a?style=flat-square)
+![Whisper](https://img.shields.io/badge/Whisper-c0a888?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-b8907a?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
 ### Fine-Tuned Llama 3.2 3B for Supply Chain Finance
 
-[![Repo](https://img.shields.io/badge/GitHub-FineTunningSLM-4a5568?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaNawar/FineTunningSLM)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repository-c4a882?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaNawar/FineTunningSLM)
 
-Fine-tuned Meta's Llama 3.2 3B Instruct model using LoRA to build a domain-specific AI assistant for Supply Chain Finance.
+Fine-tuned Meta's Llama 3.2 3B Instruct model using LoRA to build a domain-specific AI assistant for Supply Chain Finance — handling business Q&A, document summarization, and SQL generation.
 
 **Highlights**
-- Supervised fine-tuning using LoRA (PEFT)
-- Domain-specific instruction dataset for Supply Chain Finance
-- Business question answering and document summarization
-- SQL generation for finance-related use cases
-- Optimized GPU training pipeline
-- Production-ready inference for enterprise applications
+- Supervised fine-tuning using LoRA (PEFT) on a domain-specific instruction dataset
+- Business question answering, document summarization, and SQL generation for finance use cases
+- Optimized GPU training pipeline with production-ready inference
 
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-7a9bb5?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-b09090?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-b8a870?style=flat-square&logo=huggingface&logoColor=white)
-![PEFT](https://img.shields.io/badge/PEFT%20LoRA-9a9aaa?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama%203.2%203B-7a8a7a?style=flat-square)
+![Python](https://img.shields.io/badge/Python-c4a882?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-b8907a?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-c4aa8a?style=flat-square&logo=huggingface&logoColor=white)
+![PEFT LoRA](https://img.shields.io/badge/PEFT%20LoRA-b09070?style=flat-square)
+![Llama 3.2](https://img.shields.io/badge/Llama%203.2%203B-c0a888?style=flat-square)
 
 ---
 
@@ -147,30 +162,16 @@ Fine-tuned Meta's Llama 3.2 3B Instruct model using LoRA to build a domain-speci
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-7a9bb5?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8fa8b8?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-6b8a7a?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-8a8aaa?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-b8a870?style=for-the-badge&logo=huggingface&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-b09090?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-9aab9a?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Infrastructure & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-7a9e9f?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7b9db8?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8fa8b8?style=for-the-badge&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-b08a8a?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Vector Stores & RAG**
-
-![Pinecone](https://img.shields.io/badge/Pinecone-7a8a8a?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-a09080?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-c4a882?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-b8967a?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-c0a888?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c4aa8a?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-b09070?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-b8907a?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-c4aa8a?style=for-the-badge&logo=huggingface&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-b09070?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-b8907a?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-c4a882?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -185,24 +186,32 @@ Team enablement        —  Solutions that make teams faster, not more dependent
 Giving back            —  Education, Environment, Science & Technology
 ```
 
+---
 
+## Work With Me
 
-## Let's Work Together
+If you have ever caught yourself thinking "there has to be a smarter way to do this" — you are right.
 
-If you have ever caught yourself thinking "there has to be a smarter way to do this" — you are right. I would love to help you find it.
+I take on a limited number of freelance projects each month to ensure every client gets focused, high-quality work. If you have a problem worth solving, I would love to hear about it.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-6b8fa3?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-dattatray-shinde)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-8f7f74?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojanawar1415@gmail.com)
+<br/>
+
+[![Book a Discovery Call](https://img.shields.io/badge/Book%20a%20Discovery%20Call-c4a882?style=for-the-badge&logo=google-meet&logoColor=white)](mailto:poojanawar1415@gmail.com?subject=Discovery%20Call%20Request)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-b8967a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pooja-dattatray-shinde)
+
+<br/>
 
 *Open to: Full-time roles · Freelance AI projects · Consulting*  
 *Preferred locations: United States · On-site · Hybrid · Remote*
 
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=100&section=footer" />
 </div>
