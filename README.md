@@ -185,18 +185,7 @@ Team enablement        —  Solutions that make teams faster, not more dependent
 Giving back            —  Education, Environment, Science & Technology
 ```
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PoojaNawar&show_icons=true&theme=nord&hide_border=true&count_private=true&title_color=8fa8b8&icon_color=9aab9a&text_color=7a8a9a&bg_color=f5f3f0" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaNawar&layout=compact&theme=nord&hide_border=true&title_color=8fa8b8&text_color=7a8a9a&bg_color=f5f3f0" />
-
-</div>
-
----
 
 ## Let's Work Together
 
